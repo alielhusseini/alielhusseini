@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alielhusseini
-- 👀 I’m interested in tech industries (obviously), startups, web/app development, nfts & blockchain
-- 🌱 I’m working on statup projects with my team in different industries & looking forward to start my journey in web 3.0
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in tech industries (obviously), startups, web/mobile development, nfts & blockchain
+- 🌱 I’m working on statup projects & looking forward to start my journey into web 3.0
 - 📫 To reach me by email: elhussali@gmail.com 
 
 <!---
